@@ -1,0 +1,4 @@
+body { font-family: 'Comic Sans MS'; background: #fdf6fd; color: #4b0082; }
+header { background: #8a2be2; padding: 1rem; color: white; }
+.project img { border-radius: 10px; border: 3px groove #8a2be2; }
+footer { background: #8a2be2; color: #fff; padding: 1rem; }
